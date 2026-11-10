@@ -1,0 +1,61 @@
+league,season,matches,teams,expected,missing
+Bundesliga,1516,306,18,306,0
+Bundesliga,1617,306,18,306,0
+Bundesliga,1718,306,18,306,0
+Bundesliga,1819,306,18,306,0
+Bundesliga,1920,306,18,306,0
+Bundesliga,2021,306,18,306,0
+Bundesliga,2122,306,18,306,0
+Bundesliga,2223,306,18,306,0
+Bundesliga,2324,306,18,306,0
+Bundesliga,2425,305,18,306,1
+Bundesliga,2526,306,18,306,0
+Bundesliga,2627,63,18,306,243
+La Liga,1516,380,20,380,0
+La Liga,1617,380,20,380,0
+La Liga,1718,380,20,380,0
+La Liga,1819,380,20,380,0
+La Liga,1920,380,20,380,0
+La Liga,2021,380,20,380,0
+La Liga,2122,380,20,380,0
+La Liga,2223,380,20,380,0
+La Liga,2324,380,20,380,0
+La Liga,2425,380,20,380,0
+La Liga,2526,380,20,380,0
+La Liga,2627,99,20,380,281
+Ligue 1,1516,380,20,380,0
+Ligue 1,1617,379,20,380,1
+Ligue 1,1718,380,20,380,0
+Ligue 1,1819,380,20,380,0
+Ligue 1,1920,279,20,380,101
+Ligue 1,2021,380,20,380,0
+Ligue 1,2122,380,20,380,0
+Ligue 1,2223,380,20,380,0
+Ligue 1,2324,306,18,306,0
+Ligue 1,2425,306,18,306,0
+Ligue 1,2526,306,18,306,0
+Ligue 1,2627,72,18,306,234
+Premier League,1516,380,20,380,0
+Premier League,1617,380,20,380,0
+Premier League,1718,380,20,380,0
+Premier League,1819,380,20,380,0
+Premier League,1920,380,20,380,0
+Premier League,2021,380,20,380,0
+Premier League,2122,380,20,380,0
+Premier League,2223,380,20,380,0
+Premier League,2324,380,20,380,0
+Premier League,2425,380,20,380,0
+Premier League,2526,380,20,380,0
+Premier League,2627,80,20,380,300
+Serie A,1516,380,20,380,0
+Serie A,1617,379,20,380,1
+Serie A,1718,380,20,380,0
+Serie A,1819,380,20,380,0
+Serie A,1920,380,20,380,0
+Serie A,2021,380,20,380,0
+Serie A,2122,380,20,380,0
+Serie A,2223,380,20,380,0
+Serie A,2324,380,20,380,0
+Serie A,2425,380,20,380,0
+Serie A,2526,380,20,380,0
+Serie A,2627,90,20,380,290
